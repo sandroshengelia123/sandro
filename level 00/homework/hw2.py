@@ -1,9 +1,8 @@
-# 2
-# როგორ არ უნდა ერქვას ცვლადს
-# 1 ცვლადის სახელი არ უნდა იწყებოდეს ციფრით 1name = "sandro"
-# 2 არ უნდა ქონდეს სიმბოლოები @ # $ 
+# ar sheidzleba erqvas
+# ar sheidzleba iwyebodes ricxviti
+# ar sheicavdes simboloebs @, #, -, (user@name)
+# ar sheidzleba spaceit gamoyofa
+name = "luka"
+# ori toloba -  shedarebis operatoris
+# erti toloba - aniwebs mnishvnelobas
 
-# სწორი ინქნება
-# ცვლადს ქონდეს აღწერითი სახელი
-user_name = "Gio"
-user_height = 1.80

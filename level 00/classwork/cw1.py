@@ -1,5 +1,13 @@
-# 2
-my_var = "Hello world" # string
-my_var = 42            # intenger
-my_var = 3.20          # float
-my_var = True          # boolean
+# intenger - ნებისმიერი რიცხვი romelic იწერება ბრჭყალების გარეშე
+number = 30
+
+# string - romelic iwereba brwyalebshi sityva
+name = "sandro"
+
+# boolean - simartle an mcdari
+is_student = True
+
+# float - atwiladia romelic iwereba ertad ubrwyalebod
+number = 90.0
+
+
