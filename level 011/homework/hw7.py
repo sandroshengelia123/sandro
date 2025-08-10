@@ -1,0 +1,3 @@
+# კომენტარის სახით აღწერეთ ყვეელაფერი ფუნქციის შესახებ,რატომ ვიყენებთ და რატომ არის კარგი მისი გამოყენება რაში გვეხმარება და ასე შემდეგ,ასვევე დაწერეთ როგორ ვქმნით მას და რა მნიშვნელობები გადაეცემა მას
+# def - defi gvaexmareba rom gavaketot funqcia defis mere vwert rac gvinda rom erqvas chven funqcias aseve gverdze vuwert frchxilebs xolo frchxilebis shignit shegvidzlia davwerot parametri
+# def a (num):
